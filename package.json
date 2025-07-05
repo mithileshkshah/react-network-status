@@ -1,0 +1,49 @@
+{
+  "name": "react-network-status-ts",
+  "version": "1.0.1",
+  "description": "React hook and component to detect and display online/offline network status.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "react",
+    "network",
+    "online",
+    "offline",
+    "connectivity",
+    "hook",
+    "status",
+    "typescript",
+    "component"
+  ],
+  "author": "Mithilesh Shah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/react-network-status-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/react-network-status-ts/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/react-network-status-ts#readme",
+  "peerDependencies": {
+    "react": "^17 || ^18 || ^19",
+    "react-dom": "^17 || ^18 || ^19"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6"
+  }
+}
