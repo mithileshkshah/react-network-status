@@ -1,6 +1,6 @@
 {
   "name": "react-network-status-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React hook and component to detect and display online/offline network status.",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -31,12 +31,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/react-network-status-ts.git"
+    "url": "https://github.com/mithileshkshah/react-network-status"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/react-network-status-ts/issues"
+    "url": "https://github.com/mithileshkshah/react-network-status/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/react-network-status-ts#readme",
+  "homepage": "https://github.com/mithileshkshah/react-network-status#readme",
   "peerDependencies": {
     "react": "^17 || ^18 || ^19",
     "react-dom": "^17 || ^18 || ^19"

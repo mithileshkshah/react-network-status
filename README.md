@@ -1,9 +1,11 @@
-# react-network-status
+# react-network-status-ts
 
-A lightweight React hook and banner component to detect and display online/offline status.
+A lightweight React hook and component to detect and display **online/offline** network status. Useful for enhancing UX by notifying users when they lose or regain internet connectivity.
 
-## Install
+---
+
+## 🚀 Installation
 
 ```bash
-npm install react-network-status
+npm install react-network-status-ts
 ```
