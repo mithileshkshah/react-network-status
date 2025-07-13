@@ -1,6 +1,6 @@
 {
   "name": "react-network-status-ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React hook and component to detect and display online/offline network status.",
   "main": "dist/index.js",
   "module": "dist/index.js",
